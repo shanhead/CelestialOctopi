@@ -1,6 +1,6 @@
 ## Welcome to CelestialOctopi
 
-### Creating a Java card game for CS 371 Software Dev.
+#### Creating a multiplayer 2D collectible card game with Unity and C# for NMSU CS 371 - Software Development.
 
 ## Index
 1. [Problem Statement](https://shanhead.github.io/CelestialOctopi/problem)
