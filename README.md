@@ -7,9 +7,9 @@ Dylan Lassard\
 Rey Lopez
 
 ## Purpose (*Subject to change*)
-Create a card game in Java and implement a GUI
+Create a collectible card game where users can play against each other using creatures and spells until someone's life points hit zero.
 
 ## Implementation
-*TBD*
+Unity 2D with C# scripts
 
 ## [CelestialOctopi Project Page Link](https://shanhead.github.io/CelestialOctopi/)
