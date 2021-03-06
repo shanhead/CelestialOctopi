@@ -43,4 +43,4 @@ We aim to create a 2D multiplayer trading card game using C# and Unity. Our game
   - 1 mana: **gamble** Flip a coin. Heads, draw a card. Tails, your opponent draws a card.
 
 ### Sample Arena ###
-![Concept Arena](https://github.com/shanhead/CelestialOctopi/blob/gh-pages/SampleBattle.PNG?raw=true "What a game might look like")
+![Concept Arena](https://github.com/shanhead/CelestialOctopi/blob/gh-pages/Images/SampleBattle.PNG?raw=true "What a game might look like")
