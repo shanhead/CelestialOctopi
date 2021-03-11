@@ -14,7 +14,7 @@ public class DragNDrop : MonoBehaviour
      if (isDragging) {
       
         transform.position = new Vector2(Input, mousePosition.x, Input mousePosition.y);
-        
+   } 
         
         private void onCollision2D(Collision 2D) {
            isOverDropZone = true;
