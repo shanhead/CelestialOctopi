@@ -101,9 +101,7 @@
  **As a parent to a son who’s big on trading card games I have been looking for an online based game that
 my son and his friends can play together. **
 * ### 9.1 Fun to Play
-      ** As a parent, With such a busy schedule it’s difficult to make time to get
-them all together to play as often as they want. With an online trading card game like this one I’m
-hoping to help them enjoy playing even if everyone is unable to make it to a get-together.
+      **As a parent, With such a busy schedule it’s difficult to make time to get them all together to play as often as they want. With an online trading card game like this one I’m hoping to help them enjoy playing even if everyone is unable to make it to a get-together.
 
 *Elaboration:* As a parent with a busy schedule its not always easy to make the time to take my son to
 meet with his friends and play the card games he enjoys. With this game I’m hopeful that when meeting
@@ -120,9 +118,7 @@ I believe it will be perfect for them to have something to play at any time.
  **As a parent to a son who’s big on trading card games I have been looking for an online based game that
 my son and his friends can play together. **
 * ### 10.1 Stress Reliever pertaining to modern-day life occupation roles
-      ** As a full-time college student working a part-time job I don’t always have a lot of time to spare. I’m
-hoping that with this game I’ll be able to play against my friends with any spare time I do have even if
-not a lot.
+      **As a full-time college student working a part-time job I don’t always have a lot of time to spare. I’m hoping that with this game I’ll be able to play against my friends with any spare time I do have even if not a lot.
 *Elaboration:* One of my favorite hobbies is playing trading card games with a group of my friends. Lately
 due to an overload of school work and working extra hours its been very difficult finding time to play
 with my friends as I normally would. I’m hoping that with this game I’ll be able to fit in a few games with
