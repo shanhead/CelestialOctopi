@@ -29,7 +29,7 @@ The game will end when one player reaches 0 health points or is unable to draw m
 ## 1.3 Acronyms, Abbreviations, Definitions ##
 -Unity 2D : Development platform that can be utilized to create any sort of game or project with enhanced visual features
 -Visual Studio: Programming IDE that is synced with Unity 2D that is a basic editor used by developers to create code that meets user requirements and expectations for the project's key components.
--C# Scripts: 
+-C# Scripts: program files that we will write our code in (basically editors) that implement the listed functionalities required in problem statement/userstories.md
 -gamble : use dice rolls or coin flips to randomize card interactions with players or other creatures
 -guard : while this card is in play, its owner cannot be attacked directly by creatures
 -PvP implementation : two or more players face off in the arena under an online lobby server
