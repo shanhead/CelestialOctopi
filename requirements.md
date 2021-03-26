@@ -63,6 +63,9 @@ Card:
 type 
 name
 (Domain class)
+          
+          ## Descripition of Domain Model ## :
+          
 
 
 
