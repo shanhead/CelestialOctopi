@@ -68,3 +68,36 @@
    *Constraints:* This card information will also be easily accessible to the user via   
    *Effort Estimation:* 2 person-hours  
    *Acceptance Test:* The program will be able to facilitate card interactions of an entire game, using card data (manna cost, attack/health, any other effects) without requiring user input outside of normal user decisions.
+   
+  
+  
+  * ###  7: Combat defense mechanincs
+ **As a player, I want the game to keep track of how much damage I can give and receive to/from my opponent in the game using either normal attacks or spell attacks.**
+ * #### 7.1 : Damage Taken
+   **As a player, I want the game to keep track of mine and my opponent's life totals, so that I can focus on game strategy.**  
+   *Elaboration:* The game should pay attention to both players' life totals and display them on screen, and determine when a player gets damaged by an incoming attack from another player. Various cards will have at least taken away 1-3 HP from the player who had just been attacked by that respective card.  
+   *Constraints:* None.  
+   *Effort Estimation:* 2 person-hours  
+   *Acceptance Test:* Incoming damage value will be enhanced and therefore decreases the players's life total by the indicated damage amount on each card played by a user.
+
+ * #### 7.2: Guard (block) Card Functionality
+   **As a player, I want the game to contain the proper functionality for the guard card so that I can block incoming damage from my opponent.**  
+   *Elaboration:* Damage should not be sustained to a player if the guard card is enabled. It's status effects are temporary up to only one turn and should act like a shield to                   prevent the player from sustaining any sort of damage inflicted upon them by the opponeent.  
+   *Constraints:* None
+   *Effort Estimation:* 1 person-hours  
+   *Acceptance Test:* Users should test the guard card functionality within the UI and check to see if the card performs a reduced damage functionality or nearly does anything at all, meaning that the game developers did not implement the functionality correctly into the coded software structure.
+   
+   * ###  8: Undelayed functionality
+ **As a player, I want the game to run without any bugged glitches or errors so that I can enjoy the overall experience of the game.**
+ * #### 8.1 : No Server Crashes
+   **As a player, I want the game to keep implement a stable server so that there are no crashes when there are multiple players on the application simultaneously.**  
+   *Elaboration:* The developers should constantly debug their code block by block and ensure that it is free of runtime complexity errors to check for any glitches embedded                       into the system software .  
+   *Constraints:* None.  
+   *Effort Estimation:* 3 person-hours  
+   *Acceptance Test:* An abundance of users throughly test and play the game for around a couple of hours and ensure that the system does not crash when multiple users are       synced to the same  server.
+
+ 
+
+   
+   
+   
