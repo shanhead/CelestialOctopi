@@ -124,7 +124,7 @@ due to an overload of school work and working extra hours its been very difficul
 with my friends as I normally would. I’m hoping that with this game I’ll be able to fit in a few games with
 them whenever possible during a break at work or during my homework.
 *Constraints:* None
-*Effort Estimation:* 5 person-hours to 
+*Effort Estimation:* 5 person-hours to implement PvP (multiplayer matches) mode.
 *Acceptance Test:* I’m hoping for a simple card game that I can play with my friends. Hopefully a trading
 card game that can be played in a short time rather than taking hours to complete that way I can play
 even if I don’t have a lot of time to do so. 
