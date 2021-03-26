@@ -64,8 +64,9 @@ type
 name
 (Domain class)
           
-          ## Descripition of Domain Model ## :
-          
+  
+  ## Description of Domain Model ## :
+   The attributes of the person who logs into the server is declared as a player, each person having a classified username (type String), amount of intial health (type int), and mana currency (also type int). This links or connects to the primary gameObject of the project known as the card which has both a type and a name. The type classifies what attributes the card can do when the player uses the card in the game, while the name of the card just depicts what the developers have decided to call it. The only available game mode featured in our card game implementation is PvP, or basically an online multiplayer game that matches player with others from around the world. The primary functionality of initial health is to keep track of how much health the player has while playing the game, 
 
 
 
