@@ -89,14 +89,50 @@
    
    * ###  8: Undelayed functionality
  **As a player, I want the game to run without any bugged glitches or errors so that I can enjoy the overall experience of the game.**
- * #### 8.1 : No Server Crashes
+ * ### 8.1 : No Server Crashes
    **As a player, I want the game to keep implement a stable server so that there are no crashes when there are multiple players on the application simultaneously.**  
    *Elaboration:* The developers should constantly debug their code block by block and ensure that it is free of runtime complexity errors to check for any glitches embedded                       into the system software .  
    *Constraints:* None.  
    *Effort Estimation:* 3 person-hours  
-   *Acceptance Test:* An abundance of users throughly test and play the game for around a couple of hours and ensure that the system does not crash when multiple users are       synced to the same  server.
+   *Acceptance Test:* An abundance of users throughly test and play the game for around a couple of hours and ensure that the system does not crash when multiple users are       synced to the same server.
 
- 
+
+ * ###  9: Enjoyable Family-Friendly Experience
+ **As a parent to a son who’s big on trading card games I have been looking for an online based game that
+my son and his friends can play together. **
+* ### 9.1 Fun to Play
+      ** As a parent, With such a busy schedule it’s difficult to make time to get
+them all together to play as often as they want. With an online trading card game like this one I’m
+hoping to help them enjoy playing even if everyone is unable to make it to a get-together.
+
+*Elaboration:* As a parent with a busy schedule its not always easy to make the time to take my son to
+meet with his friends and play the card games he enjoys. With this game I’m hopeful that when meeting
+in person isn’t possible this game will allow him to play against his friends just as he would in person
+without the worry of not being able to make it due to scheduling issues.
+*Constraints:* none
+*Effort Estimation:* 52 person-hours (whole development of project)
+*Acceptance Test:*  A game that allows my son and his friends to play the trading card games they enjoy
+even if a busy schedule doesn’t allow for meeting in person. As long as the game is fun and runs reliably
+I believe it will be perfect for them to have something to play at any time.
+
+
+* ###  10: Social Hobby that connects friends together
+ **As a parent to a son who’s big on trading card games I have been looking for an online based game that
+my son and his friends can play together. **
+* ### 10.1 Stress Reliever pertaining to modern-day life occupation roles
+      ** As a full-time college student working a part-time job I don’t always have a lot of time to spare. I’m
+hoping that with this game I’ll be able to play against my friends with any spare time I do have even if
+not a lot.
+*Elaboration:* One of my favorite hobbies is playing trading card games with a group of my friends. Lately
+due to an overload of school work and working extra hours its been very difficult finding time to play
+with my friends as I normally would. I’m hoping that with this game I’ll be able to fit in a few games with
+them whenever possible during a break at work or during my homework.
+*Constraints:* None
+*Effort Estimation:* 5 person-hours to 
+*Acceptance Test:* I’m hoping for a simple card game that I can play with my friends. Hopefully a trading
+card game that can be played in a short time rather than taking hours to complete that way I can play
+even if I don’t have a lot of time to do so. 
+   
 
    
    
