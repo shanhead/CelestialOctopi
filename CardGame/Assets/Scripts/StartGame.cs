@@ -1,27 +1,17 @@
-﻿using System.Collections;
+﻿using Mirror;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class StartGame : MonoBehaviour
+public class StartGame : NetworkBehaviour
 {
-    public GameObject playerHand;
-    public GameObject enemyHand;
-    public GameObject Card;
-
-    void Start()
-    {
-        
-    }
+    public PlayerManager PlayerManager;
+    
 
     public void click()
     {
-        for (int i = 0; i < 5; i++)
-        {
-            GameObject uCard = Instantiate(Card, new Vector3(0, 0, 0), Quaternion.identity);
-            uCard.transform.SetParent(playerHand.transform, false);
-
-            GameObject eCard = Instantiate(Card, new Vector3(0, 0, 0), Quaternion.identity);
-            eCard.transform.SetParent(enemyHand.transform, false);
-        }
+        NetworkIdentity networkID = NetworkClient.connection.identity;
+        PlayerManager = networkID.GetComponent<PlayerManager>();
+        PlayerManager.CmdDrawCards();
     }
 }
